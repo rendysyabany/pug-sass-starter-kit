@@ -1,7 +1,7 @@
 {
   "name": "pug-sass-starter-kit",
   "version": "0.1.0",
-  "description": "A packaged for pug sass project starter kit",
+  "description": "A packaged for pug and sass project starter kit",
   "main": "index.html",
   "repository": {
     "type": "git",
