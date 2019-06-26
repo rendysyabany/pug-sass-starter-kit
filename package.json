@@ -1,0 +1,17 @@
+{
+  "name": "pug-sass-starter-kit",
+  "version": "0.1.0",
+  "description": "A packaged for pug sass project starter kit",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syabany/pug-sass-starter-kit.git"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-pug": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
